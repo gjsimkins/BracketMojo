@@ -1,5 +1,8 @@
-body {
+* {
   margin: 0;
+}
+
+body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -7,7 +10,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* BracketNode */
+
+.bracket-node, .bracket-node td, .bracket-node th { 
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.player {
+  width: 115px;
+  text-align: left;
+  padding: .3rem;
+  font-size: 1rem;
+}
+
+.score {
+  padding: .3rem;
+  font-size: 1rem;
 }
