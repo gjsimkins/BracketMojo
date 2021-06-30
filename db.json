@@ -1,0 +1,68 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "seed": 1,
+      "name": "MrMojoMan"
+    },
+    {
+      "id": 2,
+      "seed": 3,
+      "name": "Seed3"
+    },
+    {
+      "id": 3,
+      "seed": 2,
+      "name": "Seed2"
+    },
+    {
+      "id": 4,
+      "seed": 8,
+      "name": "Seed8"
+    },
+    {
+      "id": 5,
+      "seed": 6,
+      "name": "Seed6"
+    },
+    {
+      "id": 6,
+      "seed": 4,
+      "name": "Seed4"
+    },
+    {
+      "id": 7,
+      "seed": 7,
+      "name": "Seed7"
+    },
+    {
+      "id": 8,
+      "seed": 5,
+      "name": "Seed5"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "p1_id": 1,
+      "p2_id": 2,
+      "p1_name": "Me",
+      "p2_name": "You",
+      "time": "August 31 at 1pm",
+      "status": "Not Started",
+      "p1_score": 0,
+      "p2_score": 0
+    },
+    {
+      "id": 2,
+      "p1_id": 3,
+      "p2_id": 4,
+      "p1_name": "Me2",
+      "p2_name": "You2",
+      "time": "August 31 at 1pm",
+      "status": "Not Started",
+      "p1_score": 0,
+      "p2_score": 0
+    }
+  ]
+}
